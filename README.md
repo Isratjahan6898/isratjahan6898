@@ -2,6 +2,12 @@
 
 <img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/banner%20(2).png" alt="banner"/>
 
+
+## About Me
+
+I'm Israt Jahan, a web developer passionate about creating responsive and dynamic web applications. This project showcases my skills in React, Node.js, Express.js, HTML, CSS, and JavaScript.
+
+
 ## :chart_with_upwards_trend: My Github Stats
 
 <br/>
