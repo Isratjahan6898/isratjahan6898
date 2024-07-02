@@ -27,24 +27,24 @@
 
 <br>
 <p align="center"> 
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/css.png"/>
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/typeScript.png"/>
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/HTML.png"/>
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/css.png"/>
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/JavaScript.png"/>
+
 </p>
 
 <p align="center"> 
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/react.png"/>
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/react.png"/>
+
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/tailwind.png"/>
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/Bootsrap.png"/>
 </p>
 
 <p align="center"> 
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/mongo.png"/>
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/node.png"/>
-<img src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/express.png"/>
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/firebase.png"/>
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/mongo.png"/>
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/node.png"/>
+<img src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/express.png"/>
 </p>
 
 <br/>
