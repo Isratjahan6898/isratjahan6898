@@ -17,8 +17,8 @@
 <br/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nusrat-jahan-neela/" target="blank">
-<img align="center" src="https://github.com/nusratneela27/nusratneela27/blob/main/images/icons/linkdin.png" alt="www.linkedin.com/in/nusrat-jahan-neela" height="75" />
+<a href="https://www.linkedin.com/in/israt-jahan-9a68b923a/" target="blank">
+<img align="center" src="https://github.com/Isratjahan6898/isratjahan6898/blob/main/Images/Icons/linkdin.png" alt="https://www.linkedin.com/in/israt-jahan-9a68b923a/" height="75" />
 </a>
 
 </br>
